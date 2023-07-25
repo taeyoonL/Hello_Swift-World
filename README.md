@@ -1,7 +1,7 @@
 # Apps that utilize labels and text fields
 
 # Feature Description
-1. When you enter a name in the text field, the text **'Hello'** on the upper label is changed to **'Hello, Name'**.
+1. When you enter a name in the text field, and click the 'send' button, the text **'Hello'** on the upper label is changed to **'Hello, Name'**.
 
 # Run screen
 
